@@ -40,13 +40,17 @@ Timestamping consists of taking advantage of the services that provide timestamp
 When a document is time stamped, a cryptographic hash is generated based on the contents of the document. This hash is then signed with a private key, creating a digital signature. The signed hash, along with the public key and other metadata, is then timestamped by a trusted third party.
 
 
-Image
-https://www.digistamp.com/application/files/2615/7527/3348/Trusted_timestamping.jpg
+## Image
 
 
+### Timestamping
+![image](https://user-images.githubusercontent.com/17333491/180411640-baa149e1-50ff-41f9-9e17-eb17665c5d2e.png)
 
+### Validating
+![image](https://user-images.githubusercontent.com/17333491/180412145-7c5ac0e7-ae55-4e17-8bce-bee78cf2f46c.png)
 
-
+- https://www.digistamp.com/application/files/2615/7527/3348/Trusted_timestamping.jpg
+- https://www.digistamp.com/technical/how-a-digital-time-stamp-works
 
 # Libraries which provide solution
 - (Paid) - https://help.syncfusion.com/file-formats/pdf/working-with-digitalsignature?_ga=2.10296246.2076360760.1636015881-1306415495.1635425023#adding-a-timestamp-to-pdf-document
