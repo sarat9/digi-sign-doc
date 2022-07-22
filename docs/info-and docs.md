@@ -1,5 +1,8 @@
 # Things To Know
 
+## Digital Signatures
+PDF digital signature and timestamp are the best ways to protect your PDF files from being forged.
+
 
 ## Difference between .p12 and .pem file
 

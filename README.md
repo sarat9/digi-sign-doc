@@ -15,9 +15,6 @@ Code to digital sign pdf documents with p12/pfx certificates.
 node sign-with-p12.js
 ```
 
-### Libraries used:
-
-
 
 # Important Links*
 - [Digital Signatures in a PDF](https://www.adobe.com/devnet-docs/etk_deprecated/tools/DigSig/Acrobat_DigitalSignatures_in_PDF.pdf) 
@@ -28,6 +25,7 @@ Process of signing a document
 
 - [Signing a PDF with Javascript - Going though the code](https://www.youtube.com/watch?v=OFZK5lc70OI)
 
+- https://www.sohamkamani.com/nodejs/rsa-encryption/
 
 ##
 ##
@@ -101,6 +99,7 @@ https://stackoverflow.com/a/68840322
 - veryfing signed dcument if valid signature?
 - signer.update?
 - Time stamping
+- encrypt and secrypt messages with keys
 
 
 
