@@ -65,6 +65,7 @@ When a document is time stamped, a cryptographic hash is generated based on the 
 - https://www.digistamp.com/support/why-does-product-work#securetime
 - https://www.digistamp.com/support/frequently-asked-questions/time-stamp-details#standard
 - https://www.youtube.com/watch?v=uAQBBZAfBL0
+- https://www.adobe.com/devnet-docs/acrobatetk/tools/DigSigDC/Acrobat_DigitalSignatures_in_PDF.pdf
 
 
 # Check
@@ -73,3 +74,25 @@ https://github.com/vbuch/node-signpdf/pull/103/files
 
 - https://github.com/disig/TimeStampClient
 - https://www.example-code.com/nodejs/timestamp_client.asp
+
+
+
+
+
+# Free TSA *
+- https://www.freetsa.org/index_en.php
+- https://www.freetsa.org/guide/
+- https://www.freetsa.org/guide/demonstration-digitally-signed-PDF-documents.html
+- https://kbpdfstudio.qoppa.com/list-of-timestamp-servers-for-signing-pdf/
+
+
+
+# Pending
+- Attach it Document
+- If attached, the hash changes or not 
+- Where to save the data
+
+TRY
+
+- like KSI -  first print timestamp and add signature
+- add metadata to doc  - find it in ksi sdk code
